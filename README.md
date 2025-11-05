@@ -9,7 +9,7 @@
 
 ## 📋 TODO & Coming Soon
 
-The following will be available soon:
+**📄 The paper is currently under review. The following will be available upon acceptance.**
 
 - [ ] Full source code.
 - [ ] Easy-to-use inference script
